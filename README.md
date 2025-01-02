@@ -4,3 +4,6 @@ Id:CTO8DFH
 Domain: Python Programming 
 Duration:December(2024)- january (2025)
 Mentor:
+
+Overview of the project:
+SIMPLE CALCULATOR
